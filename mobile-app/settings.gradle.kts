@@ -21,3 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "Invenflow"
 include(":app")
+include(":feature-auth")
+include(":feature-stock-opname")
+include(":core")
+include(":feature-inbound")
+include(":feature-outbound")
